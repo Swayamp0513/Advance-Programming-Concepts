@@ -1,0 +1,5 @@
+runs = (45, 102, 12, 67, 0, 89, 54, 33, 76, 41)
+print("Total runs:", sum(runs))
+print("Highest score:", max(runs))
+print("Lowest score:", min(runs))
+print("Average score:", sum(runs) / len(runs))
