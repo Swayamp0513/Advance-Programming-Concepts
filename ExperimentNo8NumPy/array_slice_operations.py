@@ -5,7 +5,8 @@ arr = np.arange(1, 21)
 print("Original Array:", arr)
 print("First 5 elements:", arr[:5])
 print("Last 5 elements:", arr[-5:])
-prin
+print("Alternate Elements:", arr[::2])
+print("Elementgs in reverse order:", arr[::-1])
 
 
 
