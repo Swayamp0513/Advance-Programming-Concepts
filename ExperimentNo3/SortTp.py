@@ -1,0 +1,5 @@
+numbers = (42, 11, 89, 23, 7, 55)
+ascending = tuple(sorted(numbers))
+descending = tuple(sorted(numbers, reverse=True))
+print("Ascending:", ascending)
+print("Descending:", descending)

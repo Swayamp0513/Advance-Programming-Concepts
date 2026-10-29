@@ -1,0 +1,6 @@
+nums = (10, 20, 30, 40, 50, 60, 70, 80, 90, 100)
+print("First five elements:", nums[:5])
+print("Last five elements:", nums[-5:])
+print("Middle four elements:", nums[3:7])
+print("Alternate elements:", nums[::2])
+print("Reverse tuple:", nums[::-1])
